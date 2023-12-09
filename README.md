@@ -29,11 +29,3 @@ The Plant and Flower Shop is an e-commerce website designed to offer a wide rang
 
 - **Blog Section:** Stay updated with gardening tips, plant care advice, and inspiring stories related to the world of plants and flowers.
 
-## Getting Started
-
-To run the Plant and Flower Shop project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/plant-and-flower-shop.git
-   cd plant-and-flower-shop
